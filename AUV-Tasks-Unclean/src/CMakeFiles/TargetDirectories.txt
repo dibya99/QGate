@@ -1,0 +1,5 @@
+/home/dibya/QualGate/AUV-Tasks-Unclean/src/CMakeFiles/edit_cache.dir
+/home/dibya/QualGate/AUV-Tasks-Unclean/src/CMakeFiles/GateEdge.dir
+/home/dibya/QualGate/AUV-Tasks-Unclean/src/CMakeFiles/gatetest.dir
+/home/dibya/QualGate/AUV-Tasks-Unclean/src/CMakeFiles/demo.dir
+/home/dibya/QualGate/AUV-Tasks-Unclean/src/CMakeFiles/rebuild_cache.dir
