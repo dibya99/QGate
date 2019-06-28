@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/dibya/QualGate/AUV-Tasks-Unclean/src/test.cpp
+/home/dibya/QGate/AUV-Tasks-Unclean/src/test.cpp
 opencv2/opencv.hpp
 -
 iostream
